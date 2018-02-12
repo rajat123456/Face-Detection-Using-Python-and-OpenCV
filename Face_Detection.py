@@ -1,4 +1,4 @@
-# Face Detection
+# Face Detection Using Python and OpenCV
 
 import cv2
 
